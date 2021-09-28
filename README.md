@@ -2,5 +2,5 @@
 
 Netflix landing page using html,css and java script
 
-[View](https://sujaykummari.github.io/NETFLIX-landingpage/)
+[Visit](https://netflix-sujaykummari.vercel.app/)
 
